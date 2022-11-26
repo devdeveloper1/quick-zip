@@ -1,0 +1,16 @@
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\bin\Debug\net5.0\qzip.exe
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\bin\Debug\net5.0\qzip.deps.json
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\bin\Debug\net5.0\qzip.runtimeconfig.json
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\bin\Debug\net5.0\qzip.runtimeconfig.dev.json
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\bin\Debug\net5.0\qzip.dll
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\bin\Debug\net5.0\qzip.pdb
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\obj\Debug\net5.0\qzip.csproj.AssemblyReference.cache
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\obj\Debug\net5.0\qzip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\obj\Debug\net5.0\qzip.AssemblyInfoInputs.cache
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\obj\Debug\net5.0\qzip.AssemblyInfo.cs
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\obj\Debug\net5.0\qzip.csproj.CoreCompileInputs.cache
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\obj\Debug\net5.0\qzip.dll
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\obj\Debug\net5.0\ref\qzip.dll
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\obj\Debug\net5.0\qzip.pdb
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\obj\Debug\net5.0\qzip.genruntimeconfig.cache
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\bin\Debug\net5.0\ref\qzip.dll

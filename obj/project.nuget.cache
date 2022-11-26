@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tqhQdCArD7ZOGxapj9utyO+zDVMdTzZHaG9dzInhLr6pQrduNCWEG3AQWUFt8lDjir9DyKMeXmgwDVapejvDeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\55479\\OneDrive\\Área de Trabalho\\csharp\\qzip\\qzip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\55479\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

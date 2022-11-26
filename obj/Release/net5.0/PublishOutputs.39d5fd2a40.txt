@@ -1,0 +1,5 @@
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\bin\Release\net5.0\publish\qzip.exe
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\bin\Release\net5.0\publish\qzip.dll
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\bin\Release\net5.0\publish\qzip.deps.json
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\bin\Release\net5.0\publish\qzip.runtimeconfig.json
+C:\Users\55479\OneDrive\Área de Trabalho\csharp\qzip\bin\Release\net5.0\publish\qzip.pdb
